@@ -1,0 +1,49 @@
+body {
+    display: flex;
+    background: #0300a1;
+}
+
+.contenedor {
+    border: 1px solid rgb(7, 44, 112);
+    margin: 0 auto;
+    width: 60%;
+    background: rgb(0, 0, 0);
+    padding: 10px;
+}
+
+.principal {
+    border: 3px solid #0081d6;
+    background: #1e177a;
+    padding: 10px;
+}
+
+.foto {
+    border: 3px solid black;
+    width: 150px;
+    height: 150px;
+}
+
+.header {
+    background: #2a36e0;
+    border: 5px solid #343fdd;
+    display: flex;
+}
+
+.informacion {
+    margin-left: 40px;
+    width: 100%;
+    color: #f5ecec;
+}
+
+.titulo {
+    border: 1px solid rgb(0, 255, 0);
+    color: rgb(21, 255, 0);
+}
+
+.nombre {
+    color: #000000;
+}
+
+.txt {
+    color: #f5ecec;
+}
